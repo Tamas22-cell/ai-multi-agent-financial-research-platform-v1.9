@@ -97,4 +97,4 @@ Current version:
 
 ## Platform Dashboard
 
-![AI Multi-Agent Financial Research Platform v1.9](Pénzügyi AI platform műszerfal kollázs.png)
+financial-intelligence-dashboard-v1.9.png
