@@ -97,4 +97,4 @@ Current version:
 
 ## Platform Dashboard
 
-financial-intelligence-dashboard-v1.9.png
+![Platform Dashboard](./financial-intelligence-dashboard-v1.9.png)
