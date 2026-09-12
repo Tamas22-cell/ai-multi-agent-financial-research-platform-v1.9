@@ -1,3 +1,4 @@
+![Platform Dashboard](./financial-intelligence-dashboard-v1.9.png)
 # AI Multi-Agent Financial Research Platform v1.9
 
 Advanced Python-based multi-agent financial intelligence and portfolio analytics platform.
@@ -97,4 +98,4 @@ Current version:
 
 ## Platform Dashboard
 
-![Platform Dashboard](./financial-intelligence-dashboard-v1.9.png)
+
